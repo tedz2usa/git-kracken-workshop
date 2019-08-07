@@ -1,4 +1,4 @@
-git-kracken-workshop
+# git-kracken-workshop
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
