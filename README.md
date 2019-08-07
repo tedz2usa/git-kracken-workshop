@@ -1,4 +1,5 @@
-git-kracken-workshop
+# Git-Kracken Workshop
+Instructions for code snipps as a part of git kracken workshop.
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
